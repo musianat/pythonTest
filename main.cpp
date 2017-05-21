@@ -1,9 +1,6 @@
 //DELETE ANY NODE
 /*
-Nathan Musial ntm160030
-Smith CS 1337.002
-12/10/16
-Project 5
+Nathan Musial 
 */
 #include <iostream>
 #include <stdio.h>
